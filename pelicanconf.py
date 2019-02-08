@@ -7,7 +7,7 @@ SITENAME = 'My First Site'
 SITEURL = ''
 THEME = 'templates/mytheme'
 PATH = 'content'
-
+STATIC_PATHS = ["pics"]
 TIMEZONE = 'America/Edmonton'
 
 DEFAULT_LANG = 'en'
