@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Vlad Kravchenko'
 SITENAME = 'My First Site'
 SITEURL = ''
-
+THEME = 'templates/mytheme'
 PATH = 'content'
 
 TIMEZONE = 'America/Edmonton'
